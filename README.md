@@ -11,6 +11,6 @@ npm install
 npm run serve
 ```
 
-Demo:
+### Demo:
 
 [https://songocean.github.io/circle-progress/](https://songocean.github.io/circle-progress/)
